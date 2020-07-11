@@ -5,9 +5,6 @@
 Here are some ideas to get you started:
 -->
 I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! I love programming and Python is my go to langauge.
-<div align = "center> 
-  <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-</div>
 
 - 🔭 I’m currently working on - My Portfolio, Fenix OS
 - 🌱 I’m currently learning - React, NLP
@@ -16,5 +13,4 @@ I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! 
 - 💬 Ask me about - Anything. If I know, I will let you know. If I don't know, let's figure it out together!
 - 📫 How to reach me: saxena.shuhbhank.19@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If you don't catch starting 3 pokemons, you get Pikachu in Pokemon Go!
-
+- ⚡ Fun fact: Skip first three pokemons in Pokemon Go to get Pikachu! :P
