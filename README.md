@@ -14,5 +14,5 @@ I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! 
 - 💬 Ask me about - Anything. If I know, I will let you know. If I don't know, let's figure it out together!
 - 📫 How to reach me: saxena.shuhbhank.19@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If you don't catch starting 3 pokemons, you get Pikachu in Pokemon Go!
+- ⚡ Fun fact: Skip first 3 pokemons in Pokemon Go to get Pikachu! :P
 
