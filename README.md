@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **shubhank-saxena/shubhank-saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! I love programming and Python is my go to langauge.
 
 - 🔭 I’m currently working on - My Portfolio, Fenix OS
 - 🌱 I’m currently learning - React, NLP
