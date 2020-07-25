@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 -->
 I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! I love programming and Python is my go to langauge. <br/>
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhank-saxena" alt="shubhank-saxena" /> </p>
 
 - 🔭 I’m currently working on - My Portfolio, Fenix OS
 - 🌱 I’m currently learning - React, Ruby/Rails, NLP
