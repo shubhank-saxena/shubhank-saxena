@@ -15,3 +15,7 @@ I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! 
 - 📫 How to reach me: saxena.shuhbhank.19@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Skip first 3 pokemons in Pokemon Go to get Pikachu! :P
+
+<div align = "center">
+![](https://komarev.com/ghpvc/?username=shubhank-saxena&style=plastic)
+</div>
