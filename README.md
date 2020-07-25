@@ -17,5 +17,5 @@ I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! 
 - ⚡ Fun fact: Skip first 3 pokemons in Pokemon Go to get Pikachu! :P
 
 <div align = "center">
-![](https://komarev.com/ghpvc/?username=shubhank-saxena&style=plastic)
+![Visitor Count](https://komarev.com/ghpvc/?username=shubhank-saxena&style=plastic)
 </div>
