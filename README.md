@@ -9,7 +9,7 @@ I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhank-saxena" alt="shubhank-saxena" /> </p>
 
 - 🔭 I’m currently working on - My Portfolio, Fenix OS
-- 🌱 I’m currently learning - React, Ruby/Rails, NLP
+- 🌱 I’m currently learning - React,Go, Rust
 - 👯 I’m looking to collaborate on - NLP, FullStack(Django+React)
 - 🤔 I’m looking for help with - NLP models and classification tasks in native languages
 - 💬 Ask me about - Anything. If I know, I will let you know. If I don't know, let's figure it out together!
