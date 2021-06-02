@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [https://blog.shubhank.codes](https://blog.shubhank.codes)
 - 💬 Ask me about **Open Source, Backend, CI pipelines, Philosophy**
 - 📫 How to reach me **saxena.shubhank.19@gmail.com**
-- - ⚡ Fun fact: Skip first 3 pokemons in Pokemon Go to get Pikachu! :P
+- ⚡ Fun fact: Skip first 3 pokemons in Pokemon Go to get Pikachu! :P
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
