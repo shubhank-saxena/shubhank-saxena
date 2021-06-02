@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My GSoC Proposals](https://blog.shubhank.codes/my-gsoc-proposals)
+- [GSoC 2021](https://blog.shubhank.codes/gsoc-2021)
+- [Hosting your own password management instance](https://blog.shubhank.codes/hosting-bitwarden)
+- [ZSH - Your terminal on steroids!](https://blog.shubhank.codes/zsh-your-terminal-on-steroids)
 <!-- BLOG-POST-LIST:END -->
 
 
