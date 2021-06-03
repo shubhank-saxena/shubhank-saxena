@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Shubhank Saxena</h1>
-<h3 align="center">I am Shubhank Saxena, final year engineering undergrad. Thanks for dropping by! I love programming and Python is my go to langauge.</h3>
+<h3 align="center">Final year engineering undergrad. Thanks for dropping by! I love programming and Python is my go to langauge.</h3>
 
 - 🔭 I’m currently working on - MediaCMS (GSoC'21 Project), Anuket Vineperf DPPD-Prox (LFX Mentorship'21)
 - 🌱 I’m currently learning **Pytest, Kubernetes, Networking**
