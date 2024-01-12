@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Final Report GSoC&#39;21](https://blog.shubhank.dev/final-report-gsoc21)
+- [My GSoC Proposals](https://blog.shubhank.dev/my-gsoc-proposals)
+- [GSoC 2021](https://blog.shubhank.dev/gsoc-2021)
+- [Hosting your own password management instance](https://blog.shubhank.dev/hosting-bitwarden)
 <!-- BLOG-POST-LIST:END -->
 
 
