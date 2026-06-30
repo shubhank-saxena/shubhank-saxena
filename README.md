@@ -25,8 +25,8 @@
 
 I write about backend engineering, infrastructure, and building with AI on **[Substack](https://shubhanksaxena.substack.com/)**.
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [I built an MCP Server so Claude can use my Twitter/X account](https://shubhanksaxena.substack.com/p/i-built-an-mcp-server-so-claude-can)
+- [How That Little Card Logo Appears as You Type](https://shubhanksaxena.substack.com/p/how-that-little-card-logo-appears)
 
 ## 🛠️ Tech I work with
 
